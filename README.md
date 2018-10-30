@@ -14,7 +14,7 @@ with the same letters. For example if your query string is `cool` you could get 
 
     python3.6
 
-## Pre-requisites
+## Prerequisites
 A [Spotify developer account](https://developer.spotify.com) and a
 [registered app](https://developer.spotify.com/documentation/general/guides/app-settings).
 
