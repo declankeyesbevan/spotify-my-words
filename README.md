@@ -2,6 +2,8 @@
 Yo dawg we heard you like songs so we got you to send us some letters to get back a playlist.
 
 ## About
+Dev challenge for a job application which tests API creation and consumption.
+
 Send a query string of letters and you will get back a playlist of songs from Spotify which start
 with the same letters. For example if your query string is `cool` you could get back:
 
